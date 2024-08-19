@@ -1,6 +1,6 @@
 # Course-Tipper
 
-Simple Batch to PS implementation.
+Welcome to Course-Tipper! This program provides a Java to AutoHotKey implementation. It allows you to record or "Tip" your courses in odusplus automatically. Follow the instructions below to get started.
 
 ---
 
@@ -8,24 +8,18 @@ Simple Batch to PS implementation.
 
 To use this program, follow these steps:
 
-1. **Download the following software:**
+1. **<span style="color: #ff5733;">Download the following software:</span>**
 
-    - [AutoHotKey software](https://www.autohotkey.com/download/ahk-install.exe)
-    - [Java Development Kit](https://youtu.be/SQykK40fFds?si=Pfh6A1SaOuJaSucr)
+    - [<span style="color: #33a8ff;">AutoHotKey software</span>](https://www.autohotkey.com/download/ahk-install.exe)
+    - [<span style="color: #33ff77;">Java Development Kit</span>](https://youtu.be/SQykK40fFds?si=Pfh6A1SaOuJaSucr)
 
-2. **Usage:**
-    - Open the terminal and run the following command:
+2. **<span style="color: #ff33b9;">Usage:</span>**
+    - <span style="color: #d4ff33;">Open the terminal and run the following command:</span>
       ```bash
       java Tipper number_one number_two number_three ...
       ```
 
-3. **Note:**
-    - Double click the `.ahk` file and use `Ctrl+Alt+N` to run the macro.
+3. **<span style="color: #3384ff;">Note:</span>**
+    - <span style="color: #ff336f;">Double click the `.ahk` file and use `Ctrl+Alt+N` to run the macro.</span>
 
 ---
-
-**Introduction:**
-
-Welcome to Course-Tipper! This program provides a simple Batch to PowerShell implementation. It allows you to automate tasks using AutoHotKey and Java. Follow the instructions above to get started.
-
-Enjoy automating your tasks with Course-Tipper!
