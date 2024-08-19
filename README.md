@@ -23,3 +23,12 @@ To use this program, follow these steps:
     - <span style="color: #ff336f;">Double click the `.ahk` file and use `Ctrl+Alt+N` to run the macro.</span>
 
 ---
+
+## Example
+
+Here's an example of how to use Course-Tipper:
+
+1. Open the terminal.
+2. Run the following command:
+   ```bash
+   java Tipper Course1 Course2 Course3
